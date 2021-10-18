@@ -11,3 +11,8 @@
 	background-attachment:fixed ;
 	background-position: center center;	
 }
+.zona2{
+    background-color: hsla(0, 100%, 50%, 0.459);
+    height: 100vh;
+    width: 100%;
+}
